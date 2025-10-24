@@ -1,6 +1,6 @@
 {
   "name": "Flutter-Codespace-UNEX",
-  "image": "cirrusci/flutter:stable",
+  "image": "ghcr.io/cirruslabs/flutter:stable",
   "customizations": {
     "vscode": {
       "extensions": [
